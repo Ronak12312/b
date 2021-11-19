@@ -1,7 +1,7 @@
 nx=0;
 ny=0;
 function preload(){
-nose=loadImage("https://i.postimg.cc/kXsRDwyb/png-clipart-moustache-black-mustache.png");
+nose=loadImage("https://i.postimg.cc/mhf19g2F/mustache-png-26.png");
 }
 function setup(){
     canvas=createCanvas(300,300);
